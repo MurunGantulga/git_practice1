@@ -66,5 +66,6 @@ public class Git_Intro {
 11. Observe the pop-up saying :
       - `Do you always want to add new file to git`
       - click on `Do not Ask` checkbox and click `Add`
-      - This will ensure git will
+      - This will ensure git will always keep track of new files added 
+      - So you do not have to manually add. 
  */
