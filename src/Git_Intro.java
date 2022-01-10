@@ -68,4 +68,17 @@ public class Git_Intro {
       - click on `Do not Ask` checkbox and click `Add`
       - This will ensure git will always keep track of new files added 
       - So you do not have to manually add. 
+12. Create 3 commits by making 3 individual changes 
+13. Now you can push your local commits that remote repository does not have yet , so they can be in sync 
+14. SIDEBAR : 
+     1.   `Commit` is saving changes into local repository
+         - so we commit if change exists locally since previous commit
+     2.  `Push` is pushing local commits that you do not have in the remote yet so it can be in sync 
+15. Now you can push those 3 commist to remote repo
+16. SIDEBAR : 
+     1.  Your local timeline is called : Local `master` branch 
+     2.  Your remote timeline is called :    `origin/master` branch   
+      
+      
+      
  */
